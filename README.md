@@ -1,7 +1,6 @@
-# dockerized-sorting-api
-A Dockerized Python FastAPI application implementing Bubble Sort as a REST API.
-
 # Dockerized Sorting API (Python)
+
+A Dockerized Python FastAPI application implementing Bubble Sort as a REST API.
 
 ## Overview
 This project is a simple backend application built using Python.  
